@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1280px" height="399px" viewBox="0 0 1280 399" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 44 (41411) - http://www.bohemiancoding.com/sketch -->
+    <title>06 Wave</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="105.018778%" y1="-42.9233829%" x2="-9.79747591%" y2="242.919173%" id="linearGradient-1">
+            <stop stop-color="#FFFFFF" offset="0%"></stop>
+            <stop stop-color="#F6FCFD" offset="8.67231103%"></stop>
+            <stop stop-color="#EDF8FA" offset="17.3446221%"></stop>
+            <stop stop-color="#E4F5F8" offset="26.0169331%"></stop>
+            <stop stop-color="#DAF1F5" offset="34.6892441%"></stop>
+            <stop stop-color="#D1EEF3" offset="43.3615552%"></stop>
+            <stop stop-color="#B9E4EB" offset="54.6892441%"></stop>
+            <stop stop-color="#A0D9E3" offset="66.0169331%"></stop>
+            <stop stop-color="#86CFDB" offset="77.3446221%"></stop>
+            <stop stop-color="#68C4D4" offset="88.672311%"></stop>
+            <stop stop-color="#44BACC" offset="100%"></stop>
+            <stop stop-color="#3CB5C9" offset="100%"></stop>
+            <stop stop-color="#33B1C5" offset="100%"></stop>
+            <stop stop-color="#28ACC2" offset="100%"></stop>
+            <stop stop-color="#1BA8BE" offset="100%"></stop>
+            <stop stop-color="#03A3BB" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="All-pages" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" fill-opacity="0.790000021">
+        <g id="Website-Homepage-5-15-17" transform="translate(0.000000, -3761.000000)" fill="url(#linearGradient-1)">
+            <path d="M1.13686838e-12,3931.58411 C1.13686838e-12,3931.58411 62.8218036,3790.45128 298.036379,3790.45128 C552.919659,3790.45128 719.878343,3909.86738 939.547896,3909.86738 C1159.21745,3909.86738 1280,3761 1280,3761 L1280,4159.57075 L6.82121026e-13,4159.57075 L1.13686838e-12,3931.58411 Z" id="06-Wave" transform="translate(640.000000, 3960.285377) scale(1, -1) translate(-640.000000, -3960.285377) "></path>
+        </g>
+    </g>
+</svg>
